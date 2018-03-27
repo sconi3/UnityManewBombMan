@@ -1,0 +1,13 @@
+2017.1.0f3:3.1.0.0
+StandaloneWindows
+E:/WorkZX/Tools/unity3d/Unity3dV2017_1.0.f3/Editor/Data/Managed/UnityEditor.dll
+E:/WorkZX/Tools/unity3d/Unity3dV2017_1.0.f3/Editor/Data/Managed/UnityEngine.dll
+E:/WorkZX/Tools/unity3d/Unity3dV2017_1.0.f3/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+E:/WorkZX/Tools/unity3d/Unity3dV2017_1.0.f3/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+E:/WorkZX/Tools/unity3d/Unity3dV2017_1.0.f3/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
+E:/WorkZX/Tools/unity3d/Unity3dV2017_1.0.f3/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll
+E:/WorkZX/Tools/unity3d/Unity3dV2017_1.0.f3/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+E:/WorkZX/Tools/unity3d/Unity3dV2017_1.0.f3/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+E:/WorkZX/Tools/unity3d/Unity3dV2017_1.0.f3/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+E:/WorkZX/Tools/unity3d/Unity3dV2017_1.0.f3/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
+E:/WorkZX/Tools/unity3d/Unity3dV2017_1.0.f3/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Common.dll
